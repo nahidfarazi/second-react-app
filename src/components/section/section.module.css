@@ -1,0 +1,17 @@
+.section{
+    color: white;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #142D55;
+    border-radius: 0.25rem;
+    
+}
+.section:hover{
+    scale: 0.8;
+    transition:all .3s ease-in-out;
+}
+
+.section li {
+    
+    list-style: none;
+}

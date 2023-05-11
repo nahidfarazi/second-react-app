@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.app{
+   margin: 0;
+   padding: 0;
+}
+.nav{
+    color: #fff;
+    background-color: #151515;
+    padding: 0.10rem 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.menu ul{
+    cursor: pointer;
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+    
+}
+.menu Link {
+    text-decoration: none;
+}
+.main{
+    text-align:center ;
+    width: 70%;
+    margin: 2rem auto;
+}
+.footer{
+    background-color: #142D55;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    padding: 0.10rem 1rem;
+}
+.footer li{
+    list-style: none;
+}
+.navItem{
+    text-decoration: none;
+    color: #fff;
+}
+.active{
+    color: blueviolet;
+}

@@ -1,0 +1,8 @@
+.button_one{
+    padding: 0.35rem 2rem;
+    border: none;
+    border-radius: 0.25rem;
+    font-family: Arial;
+    font-weight: bold;
+    cursor: pointer;
+}
